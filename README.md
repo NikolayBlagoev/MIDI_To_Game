@@ -18,9 +18,9 @@ TICK_RATE - integer, how often an update is considered (LARGE MEANS LESS OFTEN)
 
 ENABLE_MOUSE - boolean, if true mouse is moved, if false - XBOX controller joystic is moved. This is because some games won't work with the mouse movement
 
-keys - the object with binds. The rule is:
+### keys - the object with binds. The rule is:
 
-"NOTE": "FUNCTION"
+### "NOTE": "FUNCTION"
 
 
 Single character functions are mapped to that key press (For example "60": "g" will map middle C to the key g)
